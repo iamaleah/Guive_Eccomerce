@@ -3,9 +3,9 @@
 - Team Members: Dian Marc De La Rosa
 <<<<<<< HEAD
 <<<<<<< HEAD
-Dian De La Rosa is my nam
+Dian De La Rosa is my name.
 , Aleah Ira Sy, Hi My name is Monique Michelle Macias Idfdf COMMIT KAW LOL, Nerma Gabenite
-Hi, I'm Nerma Gabenite.vfrvfv jkjkjkhhh
+Hi, I'm Nerma Gabenite.
 =======
 Dian De La Rosa is my name
 =======
