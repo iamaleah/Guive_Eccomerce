@@ -4,8 +4,7 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
 Dian De La Rosa is my nam
-, Aleah Ira Sy, 
-Hi My name is Monique Michelle Macias COMMIT KAW LOL, Nerma Gabenite
+, Aleah Ira Sy, Hi My name is Monique Michelle Macias COMMIT KAW LOL, Nerma Gabenite
 =======
 Dian De La Rosa is my name
 =======
